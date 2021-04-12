@@ -1,0 +1,10 @@
+[0412/161009.963:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0412/161014.978:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0412/161121.195:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0412/161122.182:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0412/161122.213:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0412/161126.220:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0412/161127.198:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0412/161127.235:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0412/174540.579:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0412/213229.485:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
